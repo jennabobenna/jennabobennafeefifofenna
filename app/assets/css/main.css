@@ -1,1 +1,48 @@
-@import url(font-awesome.min.css);
+.bg-100 {
+  height: 100vh;
+}
+nav.navbar {
+  font-family: rainy_dayregular;
+  font-size: 2rem;
+}
+.logo {
+  height: 2em;
+  width: auto;
+  object-fit: contain;
+}
+a.nav-link {
+  color: #334354;
+}
+a.nav-link:hover {
+  color: #914637;
+}
+a.navbar-brand.mr-auto {
+  font-family: rainy_dayregular;
+  font-size: 3rem;
+  color: #914637;
+}
+a.navbar-brand.mr-auto:hover {
+  color: #334354;
+}
+a {
+  color: #914637;
+}
+a:hover {
+  color: #334354;
+}
+span.fancy {
+  font-family: rainy_dayregular;
+  font-size: 4rem;
+}
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #334354;
+}
+i {
+  font-size: 1.5rem;
+  color: #334354;
+}
+i:hover {
+  font-size: 1.5rem;
+  color: #914637;
+}
